@@ -1,9 +1,9 @@
 # Baca aku pertama kali
 
 Hi Selamat datang di repostory wira
-Here Early Access Version 1.0
-Whats here?
-here you can get C++ reference for you free.
+Here UPDATE Alpha Version 1.1
+Whats new here?
+  -link list with function and pointer
 
 Create by Wirardi ©2022.
 
